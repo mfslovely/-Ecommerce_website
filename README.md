@@ -6,8 +6,6 @@ This project is a fully functional e-commerce website built to showcase a comple
 
 ## Features
 
-## Features
-
 * **User Authentication**: Secure sign-up, login, and logout functionality.
 * **Product Listings**: Display of various products with search and filter options.
 * **Product Details**: Detailed view of each product with images, descriptions, and prices.
